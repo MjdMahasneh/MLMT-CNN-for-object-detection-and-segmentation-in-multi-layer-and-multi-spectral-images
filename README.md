@@ -10,10 +10,7 @@ For the object deteciton (bbox based) implementation, please refer to: [Active R
 and [repo](https://github.com/MjdMahasneh/Active_Region_Detection_in_Multi-spectral_Solar_Images)
 
 
-
+**to-do :**
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li> [Re-implement](none) MLMT based on detectron [Detectron2](https://github.com/facebookresearch/detectron2).</li>
 </ul>
