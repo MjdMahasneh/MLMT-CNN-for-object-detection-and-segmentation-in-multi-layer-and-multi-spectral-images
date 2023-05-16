@@ -12,5 +12,5 @@ and [repo](https://github.com/MjdMahasneh/Active_Region_Detection_in_Multi-spect
 
 ## **to-do :**
 <ul>
-  <li> [Re-implement](none) MLMT based on detectron [Detectron2](https://github.com/facebookresearch/detectron2).</li>
+  <li> [Re-implement](none) MLMT based on detectron [Detectron2](https://github.com/facebookresearch/detectron2). </li>
 </ul>
