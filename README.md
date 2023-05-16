@@ -11,4 +11,4 @@ and [repo](https://github.com/MjdMahasneh/Active_Region_Detection_in_Multi-spect
 
 
 ## **to-do :**
-[Re-implement](none) MLMT based on detectron [Detectron2](https://github.com/facebookresearch/detectron2). </li>
+[Re-implement]([none](https://github.com/MjdMahasneh/MLMT-CNN-for-object-detection-and-segmentation-in-multi-layer-and-multi-spectral-images/tree/master/MLMT-CNN_II)) MLMT based on detectron [Detectron2](https://github.com/facebookresearch/detectron2). </li>
